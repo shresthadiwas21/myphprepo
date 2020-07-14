@@ -1,3 +1,3 @@
 <?
-echo "Testing CI CD pipeline for php based app";
+echo "Testing CI CD pipeline for php based app automation";
 ?>
